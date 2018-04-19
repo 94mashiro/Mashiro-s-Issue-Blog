@@ -2,13 +2,13 @@
 title: Mashiro's Blog
 
 # user name or organization name
-user: Mashiro
+user: MashiroWang
 
 # issue repository
 repository: Mashiro-s-Issue-Blog
 
 # multi-author
-authors: MashiroWang
+authors:
 
 # token
 # token should be separated by '#'
